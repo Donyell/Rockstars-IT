@@ -1,0 +1,8 @@
+<resources>
+    <!--  Generic  -->
+    <string name="app_name">Rockstars-IT</string>
+    <string name="generic_error">Something went wrong</string>
+
+    <!--  Artist  -->
+    <string name="artist_search_hint">Search artist</string>
+</resources>
